@@ -6,7 +6,7 @@ import './App.css'
 function App() {
 
   return (
-    <>
+    <div>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
@@ -51,7 +51,7 @@ function App() {
         }}>
           Spacer</h2>
       </section>
-    </>
+    </div>
   )
 }
 
