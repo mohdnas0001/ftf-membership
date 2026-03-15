@@ -1,0 +1,19 @@
+.member-name {
+    font-size: 18px;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 4px; 
+}
+
+.member-description {
+    font-size: 16px;
+    color: var(--text);
+    font-style: italic;
+    margin: 0;
+}
+
+.member-portfolio {
+    font-size: 14px;
+    color: var(--text-h);
+    margin-top: 8px;    
+}

@@ -2,6 +2,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
+import Nas from './components/Nas'
 
 function App() {
 
@@ -50,7 +51,7 @@ function App() {
           
         </div>
         <div id="social">
-          <p className="member">6th Member:</p>
+          <Nas/>
           
         </div>
       </section>
