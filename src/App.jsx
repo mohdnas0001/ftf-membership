@@ -15,7 +15,7 @@ function App() {
         </div>
         <div>
           <h1>Frontend Course Practice</h1>
-          <p>Member registration through pull request from github.</p>
+          <p style={{ marginBottom: "12px" }}>Member registration through pull request from github.</p>
         </div>
        
       </section>
@@ -44,12 +44,23 @@ function App() {
         </div>
       </section>
 
+       <section id="next-steps">
+        <div id="docs">
+          <p className="member">5th Member:</p>
+          
+        </div>
+        <div id="social">
+          <p className="member">6th Member:</p>
+          
+        </div>
+      </section>
+
       <div className="ticks"></div>
       <section id="spacer">
         <h2 style={{
             marginTop : "24px"
         }}>
-          Spacer</h2>
+          Footer</h2>
       </section>
     </div>
   )
