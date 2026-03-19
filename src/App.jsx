@@ -3,6 +3,7 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 import Nas from './components/Nas'
+import Habib from './components/Habib'
 
 function App() {
 
@@ -47,7 +48,7 @@ function App() {
 
        <section id="next-steps">
         <div id="docs">
-          <p className="member">5th Member:</p>
+           <Habib/>
           
         </div>
         <div id="social">
