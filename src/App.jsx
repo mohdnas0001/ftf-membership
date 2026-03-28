@@ -4,6 +4,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Nas from './components/Nas'
 import Habib from './components/Habib'
+import Patrick from './components/patrick'
 
 function App() {
 
@@ -41,8 +42,7 @@ function App() {
           
         </div>
         <div id="social">
-          <p className="member">4th Member:</p>
-          
+          <Patrick/>    
         </div>
       </section>
 
