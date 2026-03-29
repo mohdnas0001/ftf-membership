@@ -4,7 +4,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Nas from './components/Nas'
 import Habib from './components/Habib'
-import Patrick from './components/patrick'
+import Patrick from './components/Patrick'
 
 function App() {
 
