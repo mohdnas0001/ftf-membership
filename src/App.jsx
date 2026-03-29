@@ -5,6 +5,7 @@ import './App.css'
 import Nas from './components/Nas'
 import Habib from './components/Habib'
 import Musa from './components/Musa'
+import Patrick from './components/Patrick'
 
 function App() {
 
@@ -42,8 +43,7 @@ function App() {
           
         </div>
         <div id="social">
-          <p className="member">4th Member:</p>
-          
+          <Patrick/>    
         </div>
       </section>
 
